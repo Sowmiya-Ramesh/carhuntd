@@ -1,0 +1,7 @@
+FRONT END 
+1. npx create react app frontend
+2.do the basic setup and remove unwanted files 
+3.In bash terminal : ls -a (to list all files),
+    3.1 if git already thr(we dont need it in frontend), remove it by : rm -rf .git
+    3.2 also move .gitignore outside the frontend folder (to root)
+    3.3 ignore .env and node modules
